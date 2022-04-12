@@ -4,7 +4,7 @@
 /*
  * File: shell.h
  * Auth: Eugene Madzaga and Elizabeth Mashilo
- *       
+ *
  */
 
 #include <fcntl.h>
