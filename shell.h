@@ -15,9 +15,13 @@
 #include <unistd.h>
 #include <errno.h>
 #include <stdio.h>
-
+#include <string.h>
 #define END_OF_FILE -2
 #define EXIT -3
+#define DELIM " ,!¡¿?\'\"\n\t"
+#define STDOUT STDOUT_FILENO
+#define STDIN STDIN_FILENO
+#define STDERR STDERR_FILENO
 
 /* Global environemnt */
 extern char **environ;
