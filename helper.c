@@ -1,6 +1,6 @@
 /*
  * File: helper.c
- * 
+ *
  * Auth: Eugene Madzaga and Elizabeth Mashilo
  */
 
